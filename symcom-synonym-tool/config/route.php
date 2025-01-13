@@ -49,8 +49,8 @@ $baseApiURL = $absoluteUrl.'symcom/api/public/v1/';
 
 // DB Config details
 $dbHost = 'localhost';
-$dbUsername = 'root';
-$dbPassword = '';
+$dbUsername = 'symcomUser';
+$dbPassword = 'symcom';
 $dbName = 'synonym_db_test';
 
 //Create connection and select DB
